@@ -7,3 +7,6 @@ The script creates 3 new files to complete this task so make sure to run this sc
 ```5 * * * * {DIRECTORYSTRUCTURE}/changedetect.sh```
 This runs the script every 5 minutes, you can change that to your liking. 
 
+## Requirements
+Sha256sum command. 
+
